@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 
-public class Practice {
+public class Connection_to_db_1 {
 
 	public static void main(String[] args) {
 		
