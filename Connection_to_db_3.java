@@ -6,7 +6,7 @@ import java.sql.Statement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-public class Practice3 {
+public class Connection_to_db_3 {
 
 	public static void main(String[] args) {
 		
